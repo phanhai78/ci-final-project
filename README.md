@@ -18,7 +18,6 @@ exit
 Open **New Terminal** 
 ```bash
 pip install -r requirements.txt
-make all
 ```
 
 
